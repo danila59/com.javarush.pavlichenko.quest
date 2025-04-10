@@ -1,0 +1,4 @@
+org\example\quest\servlet\WelcomeServletTest.class
+org\example\quest\servlet\MainServletTest.class
+org\example\quest\servlet\AppInitializerTest.class
+org\example\quest\servlet\RestartGameServletTest.class
