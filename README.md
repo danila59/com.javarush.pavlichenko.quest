@@ -55,6 +55,8 @@ WelcomeServletTest.java # Тесты приветственной страниц
 3. Разместите WAR-файл в `webapps` Tomcat
 4. Запустите сервер
 5. Откройте: `http://localhost:8080/your-app-name`
+6. Deployment  'quest:war exploded'
+7. Application context  '/'
 
 ## Как играть
 1. Начните с приветственной страницы (welcomePage.jsp)
